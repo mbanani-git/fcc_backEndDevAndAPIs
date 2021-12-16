@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Mohammed B.",
   "description": "I'm learning backend dev right now!",
+  "license": "MIT",
   "keywords": [
     "backend",
     "freecodecamp",
