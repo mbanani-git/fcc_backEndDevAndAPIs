@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Mohammed B.",
   "description": "I'm learning backend dev right now!",
+  "keywords": [
+    "backend",
+    "fcc",
+    "API"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
